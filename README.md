@@ -18,10 +18,6 @@ Here are some ideas to get you started:
   🏃<b>Minjae-An</b> 🏃
 <br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjae-An&show_icons=true&theme=radical)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minjae-An&layout=&theme=) 
-  <br><br>
-  
    [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj3242)](https://solved.ac/mj3242)
   <img src="http://mazandi.herokuapp.com/api?handle=mj3242&theme=warm"/>
