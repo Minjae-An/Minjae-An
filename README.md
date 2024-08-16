@@ -4,7 +4,6 @@
   
    [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj3242)](https://solved.ac/mj3242)
-  <img src="http://mazandi.herokuapp.com/api?handle=mj3242&theme=warm"/>
  </div>
   
 <div align="center">
