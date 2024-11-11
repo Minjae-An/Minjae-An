@@ -34,6 +34,16 @@
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@mj3242)](https://velog.io/@mj3242/posts)
 [![Gmail Badge](https://img.shields.io/badge/Naver%20mail-65C179?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mj3242@naver.com)](mailto:mj3242@naver.com)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Minjae-An"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
+
 
   
