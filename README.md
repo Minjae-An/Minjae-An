@@ -1,5 +1,14 @@
 ## Introduction
+높은 책임감으로 최적의 코드를 생산하는 백엔드 개발자, 안민재입니다.
 
+복잡한 요구 사항을 적절한 책임 분리, 추상화를 통해 간결한 로직으로 구현합니다.
+객체지향적인 코드 설계를 지향합니다. 가독성 높고 유연한 코드를 선호합니다.
+
+다수의 프로젝트, 대외활동을 통해 효과적인 협업 능력을 갖췄습니다.
+팀의 시너지를 극대화하기 위해 노력합니다.
+
+사용자 중심 사고로 개발에 임하며, 단순 기능 구현을 넘어 실질적인 문제 해결을 초점을 맞춥니다. 
+지속적인 학습을 통해 새로운 기술을 습득하고 기존 구조를 개선하는 데 관심이 많습니다.
 
 ## Skills
 ### Backend
@@ -166,6 +175,19 @@
   </tr>
 </table>
 
+## Contact
+<a href="mailto:mj3242@naver.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a> &nbsp
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%95%88-1866b4287/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> &nbsp
+<a href="https://velog.io/@mj3242/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" alt="Velog">
+</a> 
+
+
 ## Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj3242)](https://solved.ac/mj3242)
+
 
