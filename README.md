@@ -35,11 +35,6 @@
 - Postman
 - Notion
 
-## Projects
-### tokpik : 맞춤형 대화 주제 큐레이션 서비스
-
-### 연바(연애는 바로 지금)
-
 ## Certificates
 
 <div style="display: flex; justify-content: center; gap: 10px;" align="center">
@@ -53,7 +48,6 @@
   <thead>
     <tr>
       <th>자격증</th>
-      <th>시험 일자</th>
       <th>취득 일자</th>
       <th>만료 일자</th>
       <th>자격 번호</th>
@@ -64,7 +58,6 @@
     <tr>
       <td>AWS-DVA</td>
       <td>2025.01.25</td>
-      <td>2025.01.25</td>
       <td>2028.01.25</td>
       <td>70b3e89524a74fdb876188b8a972c647</td>
       <td>Amazon Web Services</td>
@@ -72,14 +65,12 @@
     <tr>
       <td>AWS-SAA</td>
       <td>2024.12.24</td>
-      <td>2024.12.24</td>
       <td>2027.12.24</td>
       <td>2158110e2d554894a66c05fdf7248672</td>
       <td>Amazon Web Services</td>
     </tr>
     <tr>
       <td>정보처리기사</td>
-      <td>2024.07.14(필기)<br>2024.10.20(실기)</td>
       <td>2024.12.11</td>
       <td></td>
       <td>24203010969D</td>
@@ -88,14 +79,12 @@
     <tr>
       <td>AWS-CCP</td>
       <td>2024.08.10</td>
-      <td>2024.08.10</td>
       <td>2027.08.10</td>
       <td>662ae7714c5e41aea7aecc310067ceff</td>
       <td>Amazon Web Services</td>
     </tr>
     <tr>
       <td>OPIc IH</td>
-      <td>2024.05.08</td>
       <td>2024.05.13</td>
       <td>2026.05.13</td>
       <td>2A8722918436</td>
@@ -103,7 +92,6 @@
     </tr>
     <tr>
       <td>SQLD</td>
-      <td>2023.09.09</td>
       <td>2023.10.06</td>
       <td>2025.10.06</td>
       <td>SQLD-050005313</td>
