@@ -62,27 +62,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>SQLD</td>
-      <td>2023.09.09</td>
-      <td>2023.10.06</td>
-      <td>2025.10.06</td>
-      <td>SQLD-050005313</td>
-      <td>한국데이터산업진흥원</td>
+      <td>AWS-DVA</td>
+      <td>2025.01.25</td>
+      <td>2025.01.25</td>
+      <td>2028.01.25</td>
+      <td>70b3e89524a74fdb876188b8a972c647</td>
+      <td>Amazon Web Services</td>
     </tr>
     <tr>
-      <td>OPIc IH</td>
-      <td>2024.05.08</td>
-      <td>2024.05.13</td>
-      <td>2026.05.13</td>
-      <td>2A8722918436</td>
-      <td>ACTFL</td>
-    </tr>
-    <tr>
-      <td>AWS-CCP</td>
-      <td>2024.08.10</td>
-      <td>2024.08.10</td>
-      <td>2027.08.10</td>
-      <td>662ae7714c5e41aea7aecc310067ceff</td>
+      <td>AWS-SAA</td>
+      <td>2024.12.24</td>
+      <td>2024.12.24</td>
+      <td>2027.12.24</td>
+      <td>2158110e2d554894a66c05fdf7248672</td>
       <td>Amazon Web Services</td>
     </tr>
     <tr>
@@ -94,20 +86,28 @@
       <td>한국산업인력공단</td>
     </tr>
     <tr>
-      <td>AWS-SAA</td>
-      <td>2024.12.24</td>
-      <td>2024.12.24</td>
-      <td>2027.12.24</td>
-      <td>2158110e2d554894a66c05fdf7248672</td>
+      <td>AWS-CCP</td>
+      <td>2024.08.10</td>
+      <td>2024.08.10</td>
+      <td>2027.08.10</td>
+      <td>662ae7714c5e41aea7aecc310067ceff</td>
       <td>Amazon Web Services</td>
     </tr>
     <tr>
-      <td>AWS-DVA</td>
-      <td>2025.01.25</td>
-      <td>2025.01.25</td>
-      <td>2028.01.25</td>
-      <td>70b3e89524a74fdb876188b8a972c647</td>
-      <td>Amazon Web Services</td>
+      <td>OPIc IH</td>
+      <td>2024.05.08</td>
+      <td>2024.05.13</td>
+      <td>2026.05.13</td>
+      <td>2A8722918436</td>
+      <td>ACTFL</td>
+    </tr>
+    <tr>
+      <td>SQLD</td>
+      <td>2023.09.09</td>
+      <td>2023.10.06</td>
+      <td>2025.10.06</td>
+      <td>SQLD-050005313</td>
+      <td>한국데이터산업진흥원</td>
     </tr>
   </tbody>
 </table>
