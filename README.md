@@ -25,10 +25,7 @@
 - MySQL
 - Docker
 - Github Actions
-- AWS EC2
-- AWS RDS
-- AWS ElasticCache
-- AWS Route53
+- AWS
 
 ### Tools
 - Intellij
