@@ -164,7 +164,7 @@
 <a href="mailto:mj3242@naver.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
 </a> &nbsp
-<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%95%88-1866b4287/">
+<a href="https://www.linkedin.com/in/minjae-an-1866b4287/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> &nbsp
 <a href="https://velog.io/@mj3242/posts">
