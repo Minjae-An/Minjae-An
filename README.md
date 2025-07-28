@@ -146,14 +146,17 @@
   </tbody>
 </table>
 
-## Educations
+## Timeline
 <table>
   <thead>
     <th>항목</th>
     <th>기간</th>
   </thead>
   <tr>
-    <td>LG유플러스 유레카 백엔드/대면 2기</td><td>2025.01 ~ 2025.08</td>
+    <td>농협정보시스템</td><td>2025.07 ~</td>
+  </tr>
+  <tr>
+    <td>LG유플러스 유레카 백엔드/대면 2기</td><td>2025.01 ~ 2025.07(조기 취업으로 인한 퇴소)</td>
   </tr>
   <tr>
     <td>한성대학교 컴퓨터공학부</td><td>2018.03 ~ 2025.02</td>
