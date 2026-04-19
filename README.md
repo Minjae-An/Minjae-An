@@ -34,12 +34,11 @@
 
 ## Certificates
 
-<div style="display: flex; justify-content: center; gap: 10px;" align="center">
-  <img src="https://github.com/user-attachments/assets/6f0e0ba2-d8b1-401b-97f6-e3a735a7e69b" alt="saa" width="200" height="200">
-  <img src="https://github.com/user-attachments/assets/f5d43514-6b7f-4ba9-b862-4889c3c0f65d" alt="dva" width="200" height="200">
-  <img src="https://github.com/user-attachments/assets/13e719dc-d4e6-4d55-bc2b-75ee7b459573" alt="ccp" width="200" height="200">
-</div>
-<br/><br/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f0e0ba2-d8b1-401b-97f6-e3a735a7e69b" width="200" />
+  <img src="https://github.com/user-attachments/assets/f5d43514-6b7f-4ba9-b862-4889c3c0f65d" width="200" />
+  <img src="https://github.com/user-attachments/assets/13e719dc-d4e6-4d55-bc2b-75ee7b459573" width="200" />
+</p>
 
 <table>
   <thead>
